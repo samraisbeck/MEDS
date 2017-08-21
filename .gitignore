@@ -1,6 +1,2 @@
-*.i
-*.ii
-*.gpu
-*.ptx
-*.cubin
-*.fatbin
+# Example pill data file
+medData_example.txt
