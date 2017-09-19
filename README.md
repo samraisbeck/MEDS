@@ -1,5 +1,6 @@
 # MEDS
 Medicine Examination and Daily Sorting (MEDS)
+By Sam Raisbeck, Aditya Matam, Connor Simmons
 
 ## Description
 MEDS is a program that controlled a robot to deliver the correct type and amount of
